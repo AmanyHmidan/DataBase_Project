@@ -1,1 +1,1 @@
-# DataBase_Project
+I've done this project with my partners to create a database management system for a real estate agent. The purpose was to maintain the data related to properties, tenants, employees and finance, in order to find best properties for clients. The project was helpful to understand SQL and how to connect it with java and scenebuilder. 
